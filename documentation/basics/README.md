@@ -1,4 +1,4 @@
-# <img src="../../favicon.ico" width="30px"> **GO** - ***SECTION NAME*** :section_emoji:
+# <img src="../../favicon.ico" width="30px"> **GO** - ***Basics*** 💡
 
 ## ***Table*** *of* ***`Contents`*** 📜
 
