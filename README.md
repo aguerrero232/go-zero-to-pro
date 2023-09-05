@@ -29,7 +29,7 @@
 
 ## Table of Contents 📜
 
-* [Documentation](documentation/go/README.md)
+* [Documentation](documentation/README.md)
 * [About The Project](#about-the-project)
 * [License](#license)
 * [Contact](#contact)
