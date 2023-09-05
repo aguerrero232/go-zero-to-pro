@@ -17,7 +17,7 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<details open>
   <summary><strong>Table of Contents</strong></summary>
   <ol>
     <li><a href="documentation/README.md">Documentation</a></li>
