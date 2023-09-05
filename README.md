@@ -12,7 +12,7 @@
 <div align="center">
     <h3 align="center">Go Zero To Pro</h3>
     <p align="center">
-      My journey to become a Go Pro! 🚀
+      My journey to become a Go-lang Pro! 🚀
     </p>
 </div>
 
