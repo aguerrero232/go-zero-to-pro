@@ -17,7 +17,7 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details open>
+<!-- <details open>
   <summary><strong>Table of Contents</strong></summary>
   <ol>
     <li><a href="documentation/README.md">Documentation</a></li>
@@ -25,9 +25,14 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
-</details>
+</details> -->
 
-<br>
+## Table of Contents 📜
+
+* [Documentation](documentation/go/README.md)
+* [About The Project](#about-the-project)
+* [License](#license)
+* [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
 ## **About The Project**
