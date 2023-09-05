@@ -3,7 +3,7 @@
 ## ***Table*** *of* ***`Contents`*** 📜
 
 * 🏠 [**home**](../README.md)
-* :sub_section_emoji: [**sub section name**](sub_section_name/README.md)
+* 🔡 [**variables**](variables/README.md)
   * 🔗 **links**
 
 ## **Description** 👀
