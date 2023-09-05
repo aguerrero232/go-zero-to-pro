@@ -20,12 +20,8 @@
 <details>
   <summary><strong>Table of Contents</strong></summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="documentation/README.md">Documentation</a></li>
-      </ul>
-    </li>
+    <li><a href="documentation/README.md">Documentation</a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
