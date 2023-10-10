@@ -1,5 +1,4 @@
-# <img src="../../../favicon.ico" width="30px"> **GO** - ***Sub Section Name*** :sub_section_emoji:
-
+# <img src="../../../favicon.ico" width="30px"> **GO** - ***Sub Section Name*** :sub_section_emoji
 
 ## **Description** 👀
 
@@ -8,7 +7,6 @@
 ## **Basic** `Commands` 📝
 
 <br />
-
 
 ## **Examples** 🧩
 
