@@ -34,7 +34,7 @@ func newDeck() deck {
 }
 
 // write the json formatted deck to a file
-func (d deck) saveToFile(filename string) error {
+func (d deck) saveDeckToFile(filename string) error {
 	return os.WriteFile(filename, d.toJson(), 0666)
 }
 

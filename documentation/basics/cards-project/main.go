@@ -28,7 +28,7 @@ func main() {
 	fmt.Println()
 
 	// write remaining deck to file
-	cards.saveToFile("documentation/basics/cards-project/deck.json")
+	cards.saveDeckToFile("documentation/basics/cards-project/deck.json")
 
 	// read deck from file
 	newDeck := readDeckFromFile("documentation/basics/cards-project/deck.json")
