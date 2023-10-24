@@ -1,0 +1,215 @@
+{
+    "Cards": [
+        {
+            "Face": "Five",
+            "FaceValue": 5,
+            "Suit": "Diamonds"
+        },
+        {
+            "Face": "Two",
+            "FaceValue": 2,
+            "Suit": "Hearts"
+        },
+        {
+            "Face": "Jack",
+            "FaceValue": 11,
+            "Suit": "Clubs"
+        },
+        {
+            "Face": "Two",
+            "FaceValue": 2,
+            "Suit": "Clubs"
+        },
+        {
+            "Face": "Three",
+            "FaceValue": 3,
+            "Suit": "Clubs"
+        },
+        {
+            "Face": "Six",
+            "FaceValue": 6,
+            "Suit": "Hearts"
+        },
+        {
+            "Face": "Nine",
+            "FaceValue": 9,
+            "Suit": "Clubs"
+        },
+        {
+            "Face": "Queen",
+            "FaceValue": 12,
+            "Suit": "Diamonds"
+        },
+        {
+            "Face": "Six",
+            "FaceValue": 6,
+            "Suit": "Clubs"
+        },
+        {
+            "Face": "King",
+            "FaceValue": 13,
+            "Suit": "Diamonds"
+        },
+        {
+            "Face": "Three",
+            "FaceValue": 3,
+            "Suit": "Spades"
+        },
+        {
+            "Face": "Ten",
+            "FaceValue": 10,
+            "Suit": "Clubs"
+        },
+        {
+            "Face": "Ace",
+            "FaceValue": 1,
+            "Suit": "Diamonds"
+        },
+        {
+            "Face": "Ten",
+            "FaceValue": 10,
+            "Suit": "Diamonds"
+        },
+        {
+            "Face": "Jack",
+            "FaceValue": 11,
+            "Suit": "Diamonds"
+        },
+        {
+            "Face": "Nine",
+            "FaceValue": 9,
+            "Suit": "Diamonds"
+        },
+        {
+            "Face": "Queen",
+            "FaceValue": 12,
+            "Suit": "Hearts"
+        },
+        {
+            "Face": "Ace",
+            "FaceValue": 1,
+            "Suit": "Hearts"
+        },
+        {
+            "Face": "Four",
+            "FaceValue": 4,
+            "Suit": "Hearts"
+        },
+        {
+            "Face": "Queen",
+            "FaceValue": 12,
+            "Suit": "Clubs"
+        },
+        {
+            "Face": "Six",
+            "FaceValue": 6,
+            "Suit": "Diamonds"
+        },
+        {
+            "Face": "Eight",
+            "FaceValue": 8,
+            "Suit": "Hearts"
+        },
+        {
+            "Face": "Ace",
+            "FaceValue": 1,
+            "Suit": "Spades"
+        },
+        {
+            "Face": "Ten",
+            "FaceValue": 10,
+            "Suit": "Hearts"
+        },
+        {
+            "Face": "Seven",
+            "FaceValue": 7,
+            "Suit": "Spades"
+        },
+        {
+            "Face": "Nine",
+            "FaceValue": 9,
+            "Suit": "Spades"
+        },
+        {
+            "Face": "Queen",
+            "FaceValue": 12,
+            "Suit": "Spades"
+        },
+        {
+            "Face": "Five",
+            "FaceValue": 5,
+            "Suit": "Hearts"
+        },
+        {
+            "Face": "Ace",
+            "FaceValue": 1,
+            "Suit": "Clubs"
+        },
+        {
+            "Face": "Six",
+            "FaceValue": 6,
+            "Suit": "Spades"
+        },
+        {
+            "Face": "Seven",
+            "FaceValue": 7,
+            "Suit": "Hearts"
+        },
+        {
+            "Face": "Two",
+            "FaceValue": 2,
+            "Suit": "Diamonds"
+        },
+        {
+            "Face": "Jack",
+            "FaceValue": 11,
+            "Suit": "Spades"
+        },
+        {
+            "Face": "King",
+            "FaceValue": 13,
+            "Suit": "Hearts"
+        },
+        {
+            "Face": "Five",
+            "FaceValue": 5,
+            "Suit": "Clubs"
+        },
+        {
+            "Face": "Jack",
+            "FaceValue": 11,
+            "Suit": "Hearts"
+        },
+        {
+            "Face": "Seven",
+            "FaceValue": 7,
+            "Suit": "Clubs"
+        },
+        {
+            "Face": "Five",
+            "FaceValue": 5,
+            "Suit": "Spades"
+        },
+        {
+            "Face": "Nine",
+            "FaceValue": 9,
+            "Suit": "Hearts"
+        },
+        {
+            "Face": "Eight",
+            "FaceValue": 8,
+            "Suit": "Spades"
+        },
+        {
+            "Face": "Four",
+            "FaceValue": 4,
+            "Suit": "Clubs"
+        },
+        {
+            "Face": "Three",
+            "FaceValue": 3,
+            "Suit": "Hearts"
+        }
+    ],
+    "Size": 42
+}
