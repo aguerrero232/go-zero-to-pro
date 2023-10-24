@@ -1,26 +1,51 @@
 package main
 
-import "strconv"
+import (
+	"strconv"
+)
+
+var cardFaces = [13]string{
+	"Ace",
+	"Two",
+	"Three",
+	"Four",
+	"Five",
+	"Six",
+	"Seven",
+	"Eight",
+	"Nine",
+	"Ten",
+	"Jack",
+	"Queen",
+	"King",
+}
+
+var cardSuits = [4]string{
+	"Spades",
+	"Diamonds",
+	"Hearts",
+	"Clubs",
+}
 
 // card is a custom type that represents a playing card in a deck
 type card struct {
-	face       string
-	face_value int
-	suit       string
+	Face      string
+	FaceValue int
+	Suit      string
 }
 
 func (c card) print() string {
-	return c.face + " of " + c.suit + " (" + strconv.Itoa(c.face_value) + ")"
+	return c.getCardFace() + " of " + c.getCardSuit() + " (" + strconv.Itoa(c.getCardValue()) + ")"
 }
 
 func (c card) getCardFace() string {
-	return c.face
+	return c.Face
 }
 
 func (c card) getCardSuit() string {
-	return c.suit
+	return c.Suit
 }
 
 func (c card) getCardValue() int {
-	return c.face_value
+	return c.FaceValue
 }
