@@ -43,6 +43,8 @@ This is a repo used to track my progress and to keep track of the resources I us
 
 [![Go-shield]][Go-url]
 
+Install the Golang runtime @ [golang.org](https://golang.org/dl/)
+
 <!-- LICENSE -->
 ## **License**
 
