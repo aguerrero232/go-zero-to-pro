@@ -9,7 +9,6 @@ import (
 )
 
 // Create a new type of 'deck'
-// which is a slice of cards
 type deck struct {
 	Cards []card
 	Size  int
@@ -79,10 +78,12 @@ func (d deck) shuffle() deck {
 		return d
 	}
 
+	// using a new seed for the random number generator instead of the default seed which is always the same
 	source := rand.NewSource(time.Now().UnixNano())
 	r := rand.New(source)
+
 	for i := range d.Cards {
-		newPosition := r.Intn(len(d.Cards))
+		newPosition := r.Intn(len(d.Cards) - 1)
 		d.Cards[i], d.Cards[newPosition] = d.Cards[newPosition], d.Cards[i]
 	}
 	return d
