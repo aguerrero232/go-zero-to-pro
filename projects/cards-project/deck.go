@@ -29,6 +29,7 @@ func newDeck() deck {
 			)
 		}
 	}
+	newDeck.Size = len(newDeck.Cards)
 	return newDeck
 }
 
