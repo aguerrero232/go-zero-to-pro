@@ -1,6 +1,7 @@
 package main
 
 import (
+	"os"
 	"testing"
 )
 
@@ -31,3 +32,18 @@ func TestSuitCount(t *testing.T) {
 		}
 	}
 }
+
+func TestSaveToDeckAndNewDeckTestFromFile( t *testing.T) {
+	os.Remove("_decktesting")
+
+	d := newDeck()
+	d.saveDeckToFile("_decktesting")
+	loadedDeck := readDeckFromFile("_decktesting")
+
+	if len(loadedDeck.Cards) != 52 {
+		t.Errorf("Expected 52 cards in deck, got %v", len(loadedDeck.Cards))
+	}
+
+	os.Remove("_decktesting")
+}
+
