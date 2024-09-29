@@ -2,9 +2,8 @@ package main
 
 import "fmt"
 
-
 func isEven(i int) bool {
-	return i % 2 == 0
+	return i%2 == 0
 }
 
 func generateNumbersSlice(start int, end int) []int {
@@ -15,9 +14,8 @@ func generateNumbersSlice(start int, end int) []int {
 	return numbers
 }
 
-
-func main () {
-	numbers := generateNumbersSlice(0, 10)
+func main() {
+	numbers := generateNumbersSlice(130, 150)
 
 	for _, v := range numbers {
 		if isEven(v) {
